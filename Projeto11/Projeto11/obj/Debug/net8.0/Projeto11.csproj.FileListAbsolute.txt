@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\bin\Debug\net8.0\Projeto11.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\bin\Debug\net8.0\Projeto11.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\bin\Debug\net8.0\Projeto11.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\bin\Debug\net8.0\Projeto11.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\bin\Debug\net8.0\Projeto11.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\refint\Projeto11.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\Projeto11.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto11\Projeto11\obj\Debug\net8.0\ref\Projeto11.dll

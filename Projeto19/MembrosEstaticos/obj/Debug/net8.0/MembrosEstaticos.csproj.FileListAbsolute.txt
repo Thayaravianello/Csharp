@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\bin\Debug\net8.0\Forloop.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\bin\Debug\net8.0\Forloop.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\bin\Debug\net8.0\Forloop.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\bin\Debug\net8.0\Forloop.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\bin\Debug\net8.0\Forloop.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\refint\Forloop.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\Forloop.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Forloop\Forloop\obj\Debug\net8.0\ref\Forloop.dll

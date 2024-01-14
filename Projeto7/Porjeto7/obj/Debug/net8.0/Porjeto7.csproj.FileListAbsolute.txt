@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\bin\Debug\net8.0\Porjeto7.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\bin\Debug\net8.0\Porjeto7.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\bin\Debug\net8.0\Porjeto7.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\bin\Debug\net8.0\Porjeto7.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\bin\Debug\net8.0\Porjeto7.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\refint\Porjeto7.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\Porjeto7.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Porjeto7\Porjeto7\obj\Debug\net8.0\ref\Porjeto7.dll

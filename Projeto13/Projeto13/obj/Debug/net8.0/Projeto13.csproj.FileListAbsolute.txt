@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\bin\Debug\net8.0\Projeto13.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\bin\Debug\net8.0\Projeto13.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\bin\Debug\net8.0\Projeto13.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\bin\Debug\net8.0\Projeto13.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\bin\Debug\net8.0\Projeto13.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\refint\Projeto13.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\Projeto13.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto13\Projeto13\obj\Debug\net8.0\ref\Projeto13.dll

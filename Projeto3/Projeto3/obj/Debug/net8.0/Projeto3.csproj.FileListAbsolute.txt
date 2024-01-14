@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\bin\Debug\net8.0\Projeto3.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\bin\Debug\net8.0\Projeto3.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\bin\Debug\net8.0\Projeto3.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\bin\Debug\net8.0\Projeto3.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\bin\Debug\net8.0\Projeto3.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\refint\Projeto3.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\Projeto3.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Projeto3\Projeto3\obj\Debug\net8.0\ref\Projeto3.dll
