@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+﻿/*using System.Globalization;
 
 namespace Projeto15
 {
@@ -51,7 +51,7 @@ namespace Projeto15
         {
             _nome = nome;
             _preco = preco;
-            Quantidade = 0;// dispensavel pois ja inicia com o valor zero como explicado
+            _quantidade = 0;// dispensavel pois ja inicia com o valor zero como explicado
         }
 
 
@@ -81,4 +81,4 @@ namespace Projeto15
 
 
     }
-}
+}*/

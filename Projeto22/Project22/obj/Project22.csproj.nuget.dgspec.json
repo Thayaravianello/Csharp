@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Project22\\Project22\\Project22.csproj": {}
+    "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Projeto22\\Project22\\Project22.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Project22\\Project22\\Project22.csproj": {
+    "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Projeto22\\Project22\\Project22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Project22\\Project22\\Project22.csproj",
+        "projectUniqueName": "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Projeto22\\Project22\\Project22.csproj",
         "projectName": "Project22",
-        "projectPath": "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Project22\\Project22\\Project22.csproj",
+        "projectPath": "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Projeto22\\Project22\\Project22.csproj",
         "packagesPath": "C:\\Users\\Thaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Project22\\Project22\\obj\\",
+        "outputPath": "C:\\Users\\Thaya\\OneDrive\\Área de Trabalho\\C#\\PROJETOS\\Projeto22\\Project22\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
