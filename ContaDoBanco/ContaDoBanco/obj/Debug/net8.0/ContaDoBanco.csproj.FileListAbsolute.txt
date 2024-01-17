@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\bin\Debug\net8.0\ContaDoBanco.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\bin\Debug\net8.0\ContaDoBanco.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\bin\Debug\net8.0\ContaDoBanco.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\bin\Debug\net8.0\ContaDoBanco.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\bin\Debug\net8.0\ContaDoBanco.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\refint\ContaDoBanco.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ContaDoBanco.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\ContaDoBanco\ContaDoBanco\obj\Debug\net8.0\ref\ContaDoBanco.dll
