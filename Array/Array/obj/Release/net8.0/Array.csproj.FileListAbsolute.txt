@@ -1,0 +1,15 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\bin\Release\net8.0\Array.exe
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\bin\Release\net8.0\Array.deps.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\bin\Release\net8.0\Array.runtimeconfig.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\bin\Release\net8.0\Array.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\bin\Release\net8.0\Array.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.sourcelink.json
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\refint\Array.dll
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.pdb
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\Array.genruntimeconfig.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\Array\Array\obj\Release\net8.0\ref\Array.dll
