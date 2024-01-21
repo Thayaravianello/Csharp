@@ -1,0 +1,5 @@
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\HotelQuartos\HotelQuartos\obj\Debug\net8.0\HotelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\HotelQuartos\HotelQuartos\obj\Debug\net8.0\HotelQuartos.AssemblyInfoInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\HotelQuartos\HotelQuartos\obj\Debug\net8.0\HotelQuartos.AssemblyInfo.cs
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\HotelQuartos\HotelQuartos\obj\Debug\net8.0\HotelQuartos.csproj.CoreCompileInputs.cache
+C:\Users\Thaya\OneDrive\Área de Trabalho\C#\PROJETOS\HotelQuartos\HotelQuartos\obj\Debug\net8.0\HotelQuartos.sourcelink.json
